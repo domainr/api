@@ -6,7 +6,7 @@ For documentation, please see [the wiki](https://github.com/domainr/api/wiki).
 
 - [Overview](https://github.com/domainr/api/wiki)
 - [Terms of Use](https://github.com/domainr/api/wiki/Terms-of-Use)
-- [JSON API](https://github.com/domainr/api/wiki/JSON-API)
+- [JSON API](https://github.com/domainr/api/wiki/V1-API)
 - [Register API](https://github.com/domainr/api/wiki/Register-API)
 - [Forms API](https://github.com/domainr/api/wiki/Forms-API)
 - [API Gallery](https://github.com/domainr/api/wiki/API-Gallery)
