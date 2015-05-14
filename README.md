@@ -13,7 +13,7 @@ For documentation, please see [the wiki](https://github.com/domainr/api/wiki).
 
 ## Access
 
-Try the Domainr API [for free at Mashape](https://www.mashape.com/).
+Try the Domainr API [for free at Mashape](https://www.mashape.com/nbio/domainr).
 
 ## Updates
 
