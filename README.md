@@ -11,6 +11,10 @@ For documentation, please see [the wiki](https://github.com/domainr/api/wiki).
 - [Forms API](https://github.com/domainr/api/wiki/Forms-API)
 - [API Gallery](https://github.com/domainr/api/wiki/API-Gallery)
 
-## Discuss
+## Access
+
+Try the Domainr API [for free at Mashape](https://www.mashape.com/).
+
+## Updates
 
 Join the [domainr-api announcement list](https://groups.io/org/groupsio/domainr-api) for infrequent updates. Subscribe by email: [domainr-api+subscribe@groups.io](mailto:domainr-api+subscribe@groups.io)
