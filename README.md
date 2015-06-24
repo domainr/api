@@ -1,6 +1,6 @@
 # Domainr API
 
-For documentation, please see [domainr.build](http://domainr.build)
+For documentation, please see [domainr.build](http://domainr.build).
 
 ## Access
 
